@@ -5,6 +5,9 @@ Java Selenium-Web自动化测试
 这是一个自动化测试模块，为我的毕业设计《大学毕业生就业情况调查系统的》设计的
 
 
+在\src\test\java\com\test\LoginTest.java中运行对应的方法
+
+
 主要功能
 登录测试 (testLogin)：
 
